@@ -1,0 +1,7 @@
+5
+def reverse_str(s):
+  return s[::-1]
+
+input = reverse_str("Python Developer")
+
+print(input)
